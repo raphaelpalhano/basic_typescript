@@ -10,7 +10,7 @@ const text: string = 'open the door' || `open ${isOpen}` || 'open aaah';
 const numbers: number = 0xff0f | 10 | 10.3 | 0.5 | 0o1011;
 
 // array: declarar o array e seu tipo
-const livros: string[] = ['book1', 'book2', 'book3'];
+const books: string[] = ['book1', 'book2', 'book3'];
 
 const canetas: Array<string> = ['cane', 'Faber', 'Loli', 'devi'];
 
